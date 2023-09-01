@@ -44,12 +44,11 @@ Feel free to reach out to me through my social media accounts or via email:
     <img src="https://img.shields.io/badge/AhmetMuratUNSAL-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.instagram.com/ogretmenbabis/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/@ogretmenbabis-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
-- LinkedIn: [[Ahmet Murat ÜNSAL](https://www.linkedin.com/in/ahmet-murat-ünsal-116b53265/)]
-- Twitter: [@ByAhmetMurat](https://twitter.com/ByAhmetMurat)
+
 - E-posta: ahmetmuratunsal@gmail.com
 
 ## 📊 Github Statistics
