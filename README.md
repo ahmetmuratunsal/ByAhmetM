@@ -53,7 +53,7 @@ Feel free to reach out to me through my social media accounts or via email:
 
 ## 📊 Github Statistics
 
-[![Ahmet Murat ÜNSAL's Github Stats](https://github-readme-stats.vercel.app/api?username=ByAhmetM&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/ByAhmetM)
+[![Ahmet Murat ÜNSAL's Github Stats](https://github-readme-stats.vercel.app/api?username=ahmetmuratunsal&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/ahmetmuratunsal)
 
 ---
 
