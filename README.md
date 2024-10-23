@@ -119,6 +119,6 @@ Sosyal medya hesaplarımdan benimle iletişime geçebilir veya e-posta adresimde
 
 ## 📊 Github İstatistikleri
 
-[![Ahmet Murat ÜNSAL'ın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=ByAhmetM&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/ByAhmetM)
+[![Ahmet Murat ÜNSAL'ın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=ahmetmuratunsal&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/ahmetmuratunsal)
 
 ---
