@@ -7,7 +7,7 @@ Welcome! I'm Ahmet Murat ÜNSAL, a Front-End Developer. This README file will pr
 
 ## 🚀 About Me
 
-- 💻 I have over 1 years of experience as a Front-End Developer.
+- 💻 I have over 2 years of experience as a Front-End Developer.
 - 🎓 I have completed the necessary training and done internships.
 - 🌱 I'm always open to learning new technologies and advancements.
 - 🎯 I focus on creating user-friendly, efficient, and amazing experiences.
@@ -74,7 +74,7 @@ Hoş geldiniz! Ben Ahmet Murat ÜNSAL, bir Front-End Developer'ım. Bu README do
 
 ## 🚀 Hakkımda
 
-- 💻 Front-End Developer olarak 1 yıldan fazla deneyime sahibim.
+- 💻 Front-End Developer olarak 2 yıldan fazla deneyime sahibim.
 - 🎓 Gerekli eğitimleri tamamlayıp stajlar yapmış bulunmaktayım.
 - 🌱 Her zaman yeni teknolojilere ve gelişmelere açık bir şekilde kendimi geliştirmeye çalışıyorum.
 - 🎯 Kullanıcı dostu, etkili ve harika deneyimler yaratmaya odaklanıyorum.
